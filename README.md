@@ -1,7 +1,8 @@
 # Seu-Pet
                                       🚧  A plataforna ainda se encontra em fase de construção  🚧
-![screencapture-file-C-vscoode-projetos-Seu-Pet-index-html-2022-05-30-15_13_42](https://user-images.githubusercontent.com/86318311/171044999-5bc6cf2e-315e-4057-af60-54ecdffd0f1e.png)
 
+
+![Seu Pet](https://user-images.githubusercontent.com/86318311/185772767-b4388a0d-b445-46e3-b8ed-a42fc035422a.png)
 
 
 <p align="center">
